@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{403DEE9A-A96D-4E3F-AC8F-BC0C554709B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploConstrutorPrivadoTeste", "ExemploConstrutorPrivadoTeste\ExemploConstrutorPrivadoTeste.csproj", "{33A7C0D0-5251-4B52-BEFE-D99EE09C9011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploConstrutorPrivadoObjeto", "ExemploConstrutorPrivadoObjeto\ExemploConstrutorPrivadoObjeto.csproj", "{5391E416-5C21-4326-8673-EC2E10110F51}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ExemploTesteConstrutorPrivado.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A7C0D0-5251-4B52-BEFE-D99EE09C9011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A7C0D0-5251-4B52-BEFE-D99EE09C9011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A7C0D0-5251-4B52-BEFE-D99EE09C9011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A7C0D0-5251-4B52-BEFE-D99EE09C9011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5391E416-5C21-4326-8673-EC2E10110F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5391E416-5C21-4326-8673-EC2E10110F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5391E416-5C21-4326-8673-EC2E10110F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5391E416-5C21-4326-8673-EC2E10110F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
